@@ -13,3 +13,4 @@ console.log("console.log worked!");
 - [ ] Become the best programmer.
 - [ ] Catchem all.
 
+wym merge?!! i already did it like three times!!!
