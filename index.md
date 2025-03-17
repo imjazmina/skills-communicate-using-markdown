@@ -9,6 +9,7 @@ console.log("console.log worked!");
 ```
 ### List 
 
-- [ ] Lear MArkdown
-- [ ] Become the best programmer
-- [ ] Catchem all
+- [ ] Lear Markdown.
+- [ ] Become the best programmer.
+- [ ] Catchem all.
+
